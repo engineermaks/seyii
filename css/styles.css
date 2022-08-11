@@ -1,0 +1,140 @@
+.navbar
+{
+    background-color: #fff;
+}
+
+.container-fluid
+{
+    padding: .5%;
+}
+.row
+{
+    padding: 3% 15% 7%;
+}
+body
+{
+    background-color: #fff;
+}
+#top
+{
+    text-align: center;
+}
+#middle
+{
+    text-align: center;
+}
+#middle-lower
+{
+    text-align: center;
+}
+#lower
+{
+    text-align: center;
+}
+#footer
+{ color: #fff;
+    background-color: blue;
+}
+.header
+{
+    font-family: Montserrat-black;  font-weight: bold;  line-height: 3rem;
+
+    padding-bottom: 3rem;  text-align: center;
+}
+.top-page
+{
+    font-family: ubuntu-light;  text-align: center;
+}
+.top-buttonn
+{
+    margin: auto auto 3%;
+}
+.emote
+{
+    padding-right: 1%;
+}
+.container1
+{
+    font-weight: bold;  color: blue;
+}
+.container2
+{
+    font-size: 2rem;     font-weight: bold;  display: flex;
+
+    padding-top: 5%;  color: grey;
+}
+.cont-2
+{
+    width: 50%;  padding: 10% 1% 6% 15%;
+}
+.container3
+{
+    font-size: 2rem;     font-weight: bold;  display: flex;
+
+    padding-left: 10%;  color: grey;
+}
+.container4
+{
+    font-size: 2rem;     font-weight: bold;  display: flex;
+
+    padding-left: 10%;  color: grey;
+}
+.cont-3
+{
+    line-height: 1.5;    /* padding: 10% 3% 6% 15%; */
+
+    width: 50%;  padding-top: 5%;  text-align: left;     color: #000;
+}
+.cont-3-3
+{font-size: 60%;
+    /* padding: 5% 10%; */
+    font-weight: lighter;
+
+    text-align: justify;     color: #3f3351;
+}
+.cont-4
+{
+    line-height: 1.5;    /* padding: 10% 3% 6% 15%; */
+
+    width: 50%;  padding-top: 15%;  text-align: left;     color: #000;
+}
+.cont-4-4
+{ font-size: 60%;
+    font-weight: lighter;
+
+    text-align: justify;  color: #3f3351;
+}
+
+
+.d
+{
+    margin-bottom: 10%;
+}
+.m
+{
+    font-size: 70%;
+}
+/* images */
+.woman
+{
+    width: 40%;  border-radius: 10%;
+}
+.phone1
+{
+    width: 27%;
+    margin: 5% 10% 20% 2%;  border-radius: 10%;
+}
+.phone3
+{
+    width: 27%;
+    margin: 5% 10% 20% 2%;  border-radius: 10%;
+}
+.phone5
+{
+    width: 40%;
+    margin: 5% 10% 20% 2%;  border-radius: 10%;
+}
+h1{font-family: Montserrat-black;}
+
+h2{font-family:  ubuntu; color: grey;}
+h3{font-family: ubuntu; color: grey;}
